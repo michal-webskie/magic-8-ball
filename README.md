@@ -1,6 +1,6 @@
 <h1 align="center">Magic 8 Ball</h1>
 
-<div align="center" style="padding-right: 50px;">
+<div align="center">
 <img src="./ball-35516_960_720.webp" alt="pool ball with a number eight" width="150">
 </div>
 
